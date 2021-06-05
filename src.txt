@@ -1,0 +1,91 @@
+What is Artificial Intelligence—AI?
+In the simplest terms, artificial intelligence (AI) refers to systems or devices that mimic human intelligence to perform tasks and that can improve themselves based on the information they gather. Artificial intelligence manifests itself in a number of forms. Some of these examples:
+
+•	Chatbots use artificial intelligence to understand customer problems faster and provide more efficient answers
+•	AI uses it to analyze critical information from a large set of text data to improve scheduling
+•	Recommendation engines can provide automated recommendations for TV shows based on users' viewing habits
+
+AI is more about the ability to think and analyze data than it is about a particular form or function. Although AI presents images of high-performance human-like robots taking over the world, it is not intended to replace humans. It aims to significantly enhance human capabilities and contributions. This makes it a very valuable business asset.
+
+
+
+
+
+
+
+Fields of work specializing in artificial intelligence
+
+•	Expertise in programming.
+•	Systems analysis and design.
+•	Supervising computer and robotics works.
+•	Expertise in databases.
+•	Work in the field of education.
+•	Computer engineering.
+•	Expertise in machine learning
+
+
+
+
+What Does an AI Engineer Do?
+An AI engineer builds AI models using machine learning algorithms and deep learning neural networks to draw business insights, which can be used to make business decisions that affect the entire organization. These engineers also create weak or strong AIs, depending on what goals they want to achieve. 
+AI engineers have a sound understanding of programming, software engineering, and data science. They use different tools and techniques so they can process data, as well as develop and maintain AI systems.
+The next section of How to become an AI Engineer focuses on the responsibilities of an AI engineer.
+
+
+
+Skills Required to Become an AI Engineer
+
+•	Programming Skills 
+The first skill required to become an AI engineer is programming. To become well-versed in AI, it’s crucial to learn programming languages, such as Python, R, Java, and C++ to build and implement models. 
+•	Linear Algebra, Probability, and Statistics 
+To understand and implement different AI models—such as Hidden Markov models, Naive Bayes, Gaussian mixture models, and linear discriminant analysis—you must have detailed knowledge of linear algebra, probability, and statistics.
+•	Spark and Big Data Technologies 
+AI engineers work with large volumes of data, which could be streaming or real-time production-level data in terabytes or petabytes. For such data, these engineers need to know about Spark and other big data technologies to make sense of it. Along with Apache Spark, one can also use other big data technologies, such as Hadoop, Cassandra, and MongoDB.
+•	Algorithms and Frameworks 
+Understanding how machine learning algorithms like linear regression, KNN, Naive Bayes, Support Vector Machine, and others work will help you implement machine learning models with ease. Additionally, to build AI models with unstructured data, you should understand deep learning algorithms (like a convolutional neural network, recurrent neural network, and generative adversarial network) and implement them using a framework. Some of the frameworks used in artificial intelligence are PyTorch, Theano, TensorFlow, and Caffe.
+•	Communication and Problem-solving Skills 
+•	AI engineers need to communicate correctly to pitch their products and ideas to stakeholders. They should also have excellent problem-solving skills to resolve obstacles for decision making and drawing helpful business insights.
+
+
+
+
+How companies use artificial intelligence
+According to Harvard Business Review , companies use AI primarily to:
+•	Detecting and deterring security intrusions (44 percent)
+•	Solve users' technical issues (41 percent)
+•	Reduce production management work (34 percent)
+•	Measuring internal compliance when using approved suppliers (34 percent)
+
+
+
+
+
+What are the driving factors for the adoption of artificial intelligence?
+
+Three factors are driving the development of AI across industries:
+ 
+•  It provides easy and affordable high-performance computing. The abundance of business computing power in the cloud has enabled easy access to affordable high-performance computing. Prior to this development, the only computing environments available for AI were not cloud-based and cost prohibitive.
+
+•  Having large amounts of data available for learning. AI needs to learn from a lot of data to make correct predictions. The emergence of various tools for collecting disaggregated data, in addition to the ability for organizations to easily and affordably store and process this data, both structural and unstructured data, has led to more organizations being able to create and train AI algorithms.
+
+•  Applied AI technology provides a competitive advantage. Companies are increasingly realizing the competitive advantage of applying AI insights to business goals and making them a business-wide priority. For example, targeted recommendations provided by AI technology can help make better decisions faster. The many features and capabilities of AI can reduce costs, reduce risks, speed up time to market, and much more.
+
+
+
+
+
+5 common myths about enterprise AI
+
+While many companies have successfully embraced AI technology, there is a lot of misinformation about AI and what it can and cannot do. Here are five common myths about artificial intelligence:
+
+•	Myth #1: AI requires a DIY approach.
+Fact: Most companies embrace AI by combining both in-house and unconventional solutions. Developing in-house AI allows companies to customize unique business needs; Pre-built AI solutions enable you to simplify implementation with a ready-to-use solution to the most common business problems.
+•	Myth #2: AI delivers magical results instantly.
+Fact: The road to AI success takes time, thoughtful planning, and a clear idea of the results you want to achieve. You need a strategic framework and an iterative approach to avoid introducing a random set of disconnected AI solutions.
+•	Myth #3: AI does not require people to operate it.
+Fact: AI is not about bots controlling it. The value of AI is that it increases human capabilities and reduces the burden on your employees to devote themselves to more strategic tasks. Moreover, AI relies on people to provide it with the right data and work with it in the right way.
+•	Myth #4: The more data, the better.
+Fact: Enterprise AI needs smart data. To get the most effective business insights from AI, your data needs to be high-quality, up-to-date, relevant, and rich.
+•	Myth #5: Enterprise AI only needs data and models to succeed.
+Fact: Data, algorithms, and models are the starting point. But the AI solution must be scalable to meet changing business needs. So far, most enterprise AI solutions have been designed by data scientists. These solutions require extensive manual setup and maintenance and are not scalable. To successfully implement AI projects, you need AI solutions that are scalable to meet the needs as you move forward with AI technology
+
